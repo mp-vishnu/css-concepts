@@ -1,0 +1,36 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:2px solid black;
+    display:inline-block
+}
+h1{
+    top:300px;
+}
+
+#box1{
+    background-color: red;
+}
+#box2{
+    background-color: green;
+    position:relative;
+    top:20px;
+}
+#box3{
+    background-color: blue;
+    position:absolute;
+    top:60px
+}
+#box4{
+    background-color: orange;
+    position:fixed;
+    top:30px;
+    right:30px
+}
+#box5{
+    background-color: aqua;
+    position:sticky;
+    top:30px;
+    left:30px;
+}

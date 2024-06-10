@@ -1,0 +1,40 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    #box{
+    background-color: blue;
+}
+
+.mhead{
+    text-align: center;
+    text-transform: uppercase;
+}
+.heading{
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* or 
+h1, h2 ,h2 {
+    color:red
+}*/
+
+button{
+    background-color: green;
+}
+
+p{
+    text-align: right;
+    text-decoration: line-through;
+}
+a{
+    text-decoration:none;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
