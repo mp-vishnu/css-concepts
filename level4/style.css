@@ -1,0 +1,30 @@
+#nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+h1{
+    color:#2d1f52;
+    margin-left:8%;
+}
+a{
+    text-decoration: none;
+    color: #4e3987;
+}
+li{
+    display:inline;
+}
+#container1{
+    background-color: #9880d9;
+    height:250px;
+    width:250px;
+    margin-left:40%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+#container2{
+    background-color: #4722ab;
+    height:150px;
+    width:150px;
+}
